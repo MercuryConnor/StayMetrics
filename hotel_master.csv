@@ -1,0 +1,24 @@
+hotel_id,hotel_name,city,state,region_category,property_type,total_rooms,partner_onboarding_date,partner_type
+1,Mumbai Stay 1,Mumbai,Maharashtra,Metro,Premium,158,2023-09-18,Managed
+2,Mumbai Stay 2,Mumbai,Maharashtra,Metro,Premium,90,2023-11-22,Franchise
+3,Mumbai Stay 3,Mumbai,Maharashtra,Metro,Budget,56,2024-01-30,Affiliate
+4,Delhi Stay 4,Delhi NCR,Delhi,Metro,Boutique,52,2023-10-07,Franchise
+5,Delhi Stay 5,Delhi NCR,Delhi,Metro,Premium,134,2023-10-04,Managed
+6,Delhi Stay 6,Delhi NCR,Delhi,Metro,Budget,76,2023-12-13,Managed
+7,Delhi Stay 7,Delhi NCR,Delhi,Metro,Business,134,2023-10-15,Managed
+8,Delhi Stay 8,Delhi NCR,Delhi,Metro,Business,80,2023-06-24,Managed
+9,Bengaluru Stay 9,Bengaluru,Karnataka,Metro,Budget,72,2023-12-24,Franchise
+10,Bengaluru Stay 10,Bengaluru,Karnataka,Metro,Boutique,30,2023-12-07,Affiliate
+11,Bengaluru Stay 11,Bengaluru,Karnataka,Metro,Business,66,2024-01-29,Managed
+12,Bengaluru Stay 12,Bengaluru,Karnataka,Metro,Premium,161,2023-12-12,Affiliate
+13,Bengaluru Stay 13,Bengaluru,Karnataka,Metro,Budget,48,2023-09-25,Managed
+14,Jaipur Stay 14,Jaipur,Rajasthan,Tourist,Boutique,30,2023-12-03,Affiliate
+15,Jaipur Stay 15,Jaipur,Rajasthan,Tourist,Premium,169,2023-08-31,Affiliate
+16,Jaipur Stay 16,Jaipur,Rajasthan,Tourist,Business,89,2024-01-13,Managed
+17,Goa Stay 17,Goa,Goa,Tourist,Business,131,2023-07-18,Managed
+18,Goa Stay 18,Goa,Goa,Tourist,Budget,64,2023-09-27,Franchise
+19,Goa Stay 19,Goa,Goa,Tourist,Budget,58,2023-11-15,Affiliate
+20,Kochi Stay 20,Kochi,Kerala,Tier-2,Budget,71,2023-11-05,Affiliate
+21,Kochi Stay 21,Kochi,Kerala,Tier-2,Budget,45,2023-12-09,Affiliate
+22,Kochi Stay 22,Kochi,Kerala,Tier-2,Business,132,2023-12-28,Managed
+23,Kochi Stay 23,Kochi,Kerala,Tier-2,Premium,114,2023-07-30,Affiliate
